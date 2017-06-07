@@ -24,7 +24,7 @@
   "enemy_evolution":
   {
     "enabled": true,
-    "time_factor": 0.100004,
+    "time_factor": 0.000004,
     "destroy_factor": 0.002,
     "pollution_factor": 0.000015
   },
