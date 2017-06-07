@@ -15,7 +15,7 @@ This creates a Docker container from the latest `dtandersen/factorio` image.  By
     ./init.sh /home/entroper/my-factorio my-factorio
 
 ## configure.sh
-This will copy a set of map preset files and a server settings file to the `config` directory of your Factorio volume.  You only need to provide the name of the server settings and map presets, e.g.
+This will copy a server settings file and a set of map preset files to the `config` directory of your Factorio volume.  You only need to provide the name of the server settings and map presets, e.g.:
 
     ./configure.sh base rail-world
     
