@@ -1,8 +1,8 @@
 {
   "difficulty_settings":
   {
-     "recipe_difficulty": 1,
-     "technology_difficulty": 1,
+     "recipe_difficulty": 0,
+     "technology_difficulty": 0,
      "technology_price_multiplier": 1
   },
   "pollution":
